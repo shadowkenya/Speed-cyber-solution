@@ -1,7 +1,6 @@
-================================================================================
+
                         SPEED CYBER SOLUTION
          Full-Stack Tech, Print, Document & IT Solutions Hub
-================================================================================
 
 ABOUT SPEED CYBER SOLUTION
 Speed Cyber Solution is a complete full-stack technology, cyber, printing,
